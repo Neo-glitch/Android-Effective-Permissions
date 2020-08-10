@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EffectivePermissionHandling</string>
+    <string name="permission_message_user_label">Message user permission</string>
+    <string name="permission_message_user_description">Allows opening of message screen for a user</string>
+    <string name="permission_read_contacts_label">Message user permission</string>
+    <string name="permission_read_contacts_description">Allows opening of message screen for a user</string>
+    <string name="permission_write_contacts_label">Message user permission</string>
+    <string name="permission_write_contacts_description">Allows opening of message screen for a user</string>
+</resources>
